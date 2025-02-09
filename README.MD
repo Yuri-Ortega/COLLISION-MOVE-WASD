@@ -1,5 +1,5 @@
 #COLLISION MOVE WASD
 
-no wall stuck
-anti-collision
+no wall stuck</br>
+anti-collision</br>
 2d character
