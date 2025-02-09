@@ -1,4 +1,4 @@
-#COLLISION MOVE WASD
+## COLLISION MOVE WASD
 
 no wall stuck</br>
 anti-collision</br>
